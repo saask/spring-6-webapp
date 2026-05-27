@@ -9,6 +9,7 @@ class Spring6WebappApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("Hello World");
+        System.out.println("Testing...");
     }
 
 }
